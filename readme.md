@@ -1,3 +1,1 @@
-# Reddelex UI
-
-Bu repository, Reddelex uygulaması için app-ads.txt dosyasını içermektedir. 
+google.com, pub-8152749866645578, DIRECT, f08c47fec0942fa0 
